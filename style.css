@@ -1,5 +1,5 @@
 body{
-    background-image: url('/images/green-paper-layers_1217-3222.jpg');
+    background-image: url('./images/green-paper-layers_1217-3222.jpg');
     background-repeat: repeat;
     background-size: cover;
 }
